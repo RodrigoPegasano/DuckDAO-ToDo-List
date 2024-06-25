@@ -1,0 +1,30 @@
+.footer {
+    background-color: #f8f9fa;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    margin-top: 50px;
+    padding: 0 3%;
+}
+
+.info a {
+    text-decoration: none;
+    font-weight: 500;
+    color: black;
+    margin: 0 15px;
+}
+
+.info a:hover {
+    color: #fdd325;
+    transition: 0.2s;
+}
+
+.social-margin {
+    margin-left: 10px;
+}

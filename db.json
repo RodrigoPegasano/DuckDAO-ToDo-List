@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {
+      "id": "337c",
+      "foto": "https://picsum.photos/200?1",
+      "nombre": "Rodrigo",
+      "apellido": "Pegasano",
+      "nacionalidad": "Argentina",
+      "nacimiento": "1998-04-14",
+      "email": "rodrigo@gmail.com",
+      "contraseña": "12345678"
+    },
+    {
+      "id": "d83e",
+      "foto": "https://picsum.photos/200?2",
+      "nombre": "Mati",
+      "apellido": "Pegasano",
+      "nacionalidad": "Argentia",
+      "nacimiento": "2024-02-05",
+      "email": "mati@gmail.com",
+      "contraseña": "csadcfss"
+    }
+  ]
+}

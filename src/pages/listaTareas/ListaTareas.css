@@ -1,0 +1,25 @@
+.lista-tareas {
+    width: 400px;
+    margin: 0 auto;
+    padding: 0;
+    margin-top: 50px;
+}
+
+.tareas-activas {
+    border-bottom: 1px solid black;
+    margin: 0 0 20px 0;
+    padding: 0 0 20px 0;
+}
+
+.tareas-activas h2 {
+    margin-bottom: 40px;
+}
+
+.tareas-finalizadas {
+    margin: 0;
+    padding: 0;
+}
+
+.tareas-finalizadas h2 {
+    margin-bottom: 40px;
+}

@@ -1,0 +1,11 @@
+.accion-borrar {
+    background-color: transparent;
+    border: none;
+    height: auto;
+    margin-left: 5px;
+}
+
+.accion-borrar:hover {
+    background-color: rgba(128, 128, 128, 0.295);
+    border-radius: 5px;
+}
